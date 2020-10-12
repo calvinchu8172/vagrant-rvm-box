@@ -1,0 +1,5 @@
+.vagrant/
+work/*
+!work/xmpp
+!work/td-agent.conf
+!work/.gitkeep
